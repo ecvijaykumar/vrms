@@ -1,0 +1,25 @@
+@import "semantic-ui/semantic-ui";
+
+
+
+
+.propertyAction {
+  margin: 1em 0em;
+  padding: 1em 0em;
+  border-top: 1px solid rgba(0, 0, 0, 0.05);
+/*  clear: both;*/
+  position: relative;
+}
+
+.propertyAction .ui.button {
+    margin-left: 0.3em;
+}
+
+/*******************************
+          Responsive
+*******************************/
+
+/*==NEW stuff */
+.ui.inverted.grey {
+    background-color: #656565;
+}

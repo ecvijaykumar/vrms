@@ -1,0 +1,2 @@
+1. Guest viewing properties, can add to selection. Relate it to shopping cart adding items.
+Eg:http://react-flux-cart.scotch.io/ demo

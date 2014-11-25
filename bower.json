@@ -1,0 +1,24 @@
+{
+  "name": "rms",
+  "version": "0.0.0",
+  "description": "rental management system",
+  "main": "app.js",
+  "keywords": [
+    "rms"
+  ],
+  "authors": [
+    "vijay ekkaladevi"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "trumbowyg": "~1.1.7",
+    "jquery": "~2.1.1"
+  }
+}
